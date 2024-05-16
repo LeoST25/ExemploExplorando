@@ -1,6 +1,6 @@
 # Curso C#
 
-## Módulo 2
+## Módulo 3
 ### Propriedades, Métodos e Construtores
 ### Manipulando valores com 
 ### Exceções e Coleções com 
