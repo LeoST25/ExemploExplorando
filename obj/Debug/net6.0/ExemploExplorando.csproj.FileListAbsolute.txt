@@ -13,3 +13,6 @@ E:\Projetos\Videos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
 E:\Projetos\Videos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
 E:\Projetos\Videos\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
 E:\Projetos\Videos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.sourcelink.json
+E:\Projetos\Videos\ExemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Projetos\Videos\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+E:\Projetos\Videos\ExemploExplorando\obj\Debug\net6.0\ExemploE.B7F01285.Up2Date
